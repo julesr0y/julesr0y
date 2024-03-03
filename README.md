@@ -1,6 +1,6 @@
 ## 📩 Contact
 
-[![LinkedIn](https://a11ybadges.com/badge?logo=linkedin)](https://www.linkedin.com/in/julesr0y/) [![Instagram](https://a11ybadges.com/badge?logo=instagram)](https://instagram.com/julesr0y/) [![Discord](https://a11ybadges.com/badge?logo=discord)](https://discordapp.com/users/1102534513315303494)
+[![LinkedIn](https://a11ybadges.com/badge?logo=linkedin)](https://www.linkedin.com/in/julesr0y/){:target="_blank"} [![Instagram](https://a11ybadges.com/badge?logo=instagram)](https://instagram.com/julesr0y/){:target="_blank"} [![Discord](https://a11ybadges.com/badge?logo=discord)](https://discordapp.com/users/1102534513315303494){:target="_blank"}
 
 ## 💻 Tech Stack
 
