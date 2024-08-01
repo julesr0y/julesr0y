@@ -10,11 +10,11 @@
 
 ##### 🪛 Frameworks, Librairies, Plateformes et Outils
 
-![Node.js](https://a11ybadges.com/badge?logo=nodedotjs) ![npm](https://a11ybadges.com/badge?logo=npm) ![Express](https://a11ybadges.com/badge?logo=express) ![Flask](https://a11ybadges.com/badge?logo=flask) ![Tailwind CSS](https://a11ybadges.com/badge?logo=tailwindcss) ![Flutter](https://a11ybadges.com/badge?logo=flutter) ![SFML](https://a11ybadges.com/badge?logo=sfml) ![SQLite](https://a11ybadges.com/badge?logo=sqlite) ![MySQL](https://a11ybadges.com/badge?logo=mysql) ![Jupyter](https://a11ybadges.com/badge?logo=jupyter) ![Git](https://a11ybadges.com/badge?logo=git) ![GitHub](https://a11ybadges.com/badge?logo=github)![Google Cloud](https://a11ybadges.com/badge?logo=googlecloud)
+![Node.js](https://a11ybadges.com/badge?logo=nodedotjs) ![npm](https://a11ybadges.com/badge?logo=npm) ![Express](https://a11ybadges.com/badge?logo=express) ![Flask](https://a11ybadges.com/badge?logo=flask) ![Tailwind CSS](https://a11ybadges.com/badge?logo=tailwindcss) ![Flutter](https://a11ybadges.com/badge?logo=flutter) ![SFML](https://a11ybadges.com/badge?logo=sfml) ![SQLite](https://a11ybadges.com/badge?logo=sqlite) ![MySQL](https://a11ybadges.com/badge?logo=mysql) ![Jupyter](https://a11ybadges.com/badge?logo=jupyter) ![Git](https://a11ybadges.com/badge?logo=git) ![GitHub](https://a11ybadges.com/badge?logo=github)![Google Cloud](https://a11ybadges.com/badge?logo=googlecloud) ![Linux](https://a11ybadges.com/badge?logo=linux)
 
 ##### 🖥️ OS
 
-![macOS](https://a11ybadges.com/badge?logo=macos) ![Linux](https://a11ybadges.com/badge?logo=linux) ![Ubuntu](https://a11ybadges.com/badge?logo=ubuntu) ![Windows](https://a11ybadges.com/badge?logo=windows) ![iOS](https://a11ybadges.com/badge?logo=ios)
+![macOS](https://a11ybadges.com/badge?logo=macos) ![Ubuntu](https://a11ybadges.com/badge?logo=ubuntu) ![Windows](https://a11ybadges.com/badge?logo=windows) ![iOS](https://a11ybadges.com/badge?logo=ios)
 
 ## Principaux projets:
 
