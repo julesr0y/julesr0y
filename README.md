@@ -4,15 +4,15 @@
 
 ## 💻 Tech Stack
 
-##### ⌨️ Langages
+#### ⌨️ Langages
 
 ![C++](https://a11ybadges.com/badge?logo=cplusplus) ![C](https://a11ybadges.com/badge?logo=c) ![PHP](https://a11ybadges.com/badge?logo=php) ![JavaScript](https://a11ybadges.com/badge?logo=javascript) ![Python](https://a11ybadges.com/badge?logo=python) ![HTML5](https://a11ybadges.com/badge?logo=html5) ![CSS3](https://a11ybadges.com/badge?logo=css3) ![Dart](https://a11ybadges.com/badge?logo=dart)
 
-##### 🪛 Frameworks, Librairies, Plateformes et Outils
+#### 🪛 Frameworks, Librairies, Plateformes et Outils
 
-![Node.js](https://a11ybadges.com/badge?logo=nodedotjs) ![npm](https://a11ybadges.com/badge?logo=npm) ![Express](https://a11ybadges.com/badge?logo=express) ![Flask](https://a11ybadges.com/badge?logo=flask) ![Tailwind CSS](https://a11ybadges.com/badge?logo=tailwindcss) ![Flutter](https://a11ybadges.com/badge?logo=flutter) ![SFML](https://a11ybadges.com/badge?logo=sfml) ![SQLite](https://a11ybadges.com/badge?logo=sqlite) ![MySQL](https://a11ybadges.com/badge?logo=mysql) ![Jupyter](https://a11ybadges.com/badge?logo=jupyter) ![Git](https://a11ybadges.com/badge?logo=git) ![GitHub](https://a11ybadges.com/badge?logo=github)![Google Cloud](https://a11ybadges.com/badge?logo=googlecloud) ![Linux](https://a11ybadges.com/badge?logo=linux)
+![Node.js](https://a11ybadges.com/badge?logo=nodedotjs) ![npm](https://a11ybadges.com/badge?logo=npm) ![Express](https://a11ybadges.com/badge?logo=express) ![Flask](https://a11ybadges.com/badge?logo=flask) ![Tailwind CSS](https://a11ybadges.com/badge?logo=tailwindcss) ![Flutter](https://a11ybadges.com/badge?logo=flutter) ![SFML](https://a11ybadges.com/badge?logo=sfml) ![SQLite](https://a11ybadges.com/badge?logo=sqlite) ![MySQL](https://a11ybadges.com/badge?logo=mysql) ![Jupyter](https://a11ybadges.com/badge?logo=jupyter) ![Git](https://a11ybadges.com/badge?logo=git) ![GitHub](https://a11ybadges.com/badge?logo=github) ![Google Cloud](https://a11ybadges.com/badge?logo=googlecloud) ![Linux](https://a11ybadges.com/badge?logo=linux)
 
-##### 🖥️ OS
+#### 🖥️ OS
 
 ![macOS](https://a11ybadges.com/badge?logo=macos) ![Ubuntu](https://a11ybadges.com/badge?logo=ubuntu) ![Windows](https://a11ybadges.com/badge?logo=windows) ![iOS](https://a11ybadges.com/badge?logo=ios)
 
@@ -30,7 +30,7 @@
 *Last review: 08/2024*
 
 ```
-________ _______ __  __       _________        ______    
+________ _______ __  __       _________        ______  
 ___  __ \__  __ \_ \/ /       ______  /____  _____  /_____ ________
 __  /_/ /_  / / /__  /        ___ _  / _  / / /__  / _  _ \__  ___/
 _  _, _/ / /_/ / _  /         / /_/ /  / /_/ / _  /  /  __/_(__  )
