@@ -6,11 +6,11 @@
 
 #### ⌨️ Langages
 
-![C++](https://a11ybadges.com/badge?logo=cplusplus) ![C](https://a11ybadges.com/badge?logo=c) ![PHP](https://a11ybadges.com/badge?logo=php) ![JavaScript](https://a11ybadges.com/badge?logo=javascript) ![Python](https://a11ybadges.com/badge?logo=python) ![HTML5](https://a11ybadges.com/badge?logo=html5) ![CSS3](https://a11ybadges.com/badge?logo=css3) ![Dart](https://a11ybadges.com/badge?logo=dart)
+![C++](https://a11ybadges.com/badge?logo=cplusplus) ![C](https://a11ybadges.com/badge?logo=c) ![PHP](https://a11ybadges.com/badge?logo=php) ![JavaScript](https://a11ybadges.com/badge?logo=javascript) ![Python](https://a11ybadges.com/badge?logo=python) ![HTML5](https://a11ybadges.com/badge?logo=html5) ![CSS3](https://a11ybadges.com/badge?logo=css3)
 
 #### 🪛 Frameworks, Librairies, Plateformes et Outils
 
-![Node.js](https://a11ybadges.com/badge?logo=nodedotjs) ![npm](https://a11ybadges.com/badge?logo=npm) ![Express](https://a11ybadges.com/badge?logo=express) ![Flask](https://a11ybadges.com/badge?logo=flask) ![Tailwind CSS](https://a11ybadges.com/badge?logo=tailwindcss) ![Flutter](https://a11ybadges.com/badge?logo=flutter) ![SFML](https://a11ybadges.com/badge?logo=sfml) ![SQLite](https://a11ybadges.com/badge?logo=sqlite) ![MySQL](https://a11ybadges.com/badge?logo=mysql) ![Jupyter](https://a11ybadges.com/badge?logo=jupyter) ![Git](https://a11ybadges.com/badge?logo=git) ![GitHub](https://a11ybadges.com/badge?logo=github) ![Google Cloud](https://a11ybadges.com/badge?logo=googlecloud) ![Linux](https://a11ybadges.com/badge?logo=linux)
+![Node.js](https://a11ybadges.com/badge?logo=nodedotjs) ![npm](https://a11ybadges.com/badge?logo=npm) ![Express](https://a11ybadges.com/badge?logo=express) ![Flask](https://a11ybadges.com/badge?logo=flask) ![Tailwind CSS](https://a11ybadges.com/badge?logo=tailwindcss) ![SFML](https://a11ybadges.com/badge?logo=sfml) ![SQLite](https://a11ybadges.com/badge?logo=sqlite) ![MySQL](https://a11ybadges.com/badge?logo=mysql) ![Jupyter](https://a11ybadges.com/badge?logo=jupyter) ![Git](https://a11ybadges.com/badge?logo=git) ![GitHub](https://a11ybadges.com/badge?logo=github) ![Google Cloud](https://a11ybadges.com/badge?logo=googlecloud) ![Linux](https://a11ybadges.com/badge?logo=linux) ![Visual Studio](https://a11ybadges.com/badge?logo=visualstudio) ![Visual Studio Code](https://a11ybadges.com/badge?logo=visualstudiocode) ![PowerShell](https://a11ybadges.com/badge?logo=powershell)
 
 #### 🖥️ OS
 
