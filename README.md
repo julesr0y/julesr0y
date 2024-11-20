@@ -21,7 +21,7 @@
 * **[La Descente](https://ladescente.alwaysdata.net/)**, un site destiné à la présentation de recettes et de boissons alcoolisées. Réalisé en groupe dans le cadre d'un projet de fin de semestre. [Github](https://github.com/julesr0y/ladescente)
 * **[Dunetaler](https://dunetaler.alwaysdata.net/php/)**, un jeu vidéo inspiré du jeu Undertale (de Toby Fox). Réalisé en groupe dans le cadre du projet clôturant l'année de CIR1 à l'ISEN Lille. [Github](https://github.com/julesr0y/Dunetaler)
 * **ChtiMI**. Un site permettant la gestion des commandes et des stocks de l'association Maison ISEN à l'ISEN Lille. Réalisé en groupe. (Ce site était utilisé pour l'année 2023-2024, il n'est désormais plus accessible). [Github](https://github.com/julesr0y/maison_isen)
-* **[Mon site portfolio](https://julesr0y.xyz/)**. Mon portfolio de développeur. [Github](https://github.com/julesr0y/astro-portfolio)
+* **[Mon site portfolio](https://julesr0y.xyz/)**. Mon portfolio de développeur. [Github](https://github.com/julesr0y/portfolio)
 * **Projet VAL**. Ce projet est une simulation du métro Lillois, avec C++ et la bibliothèque SFML. Réalisé en groupe dans le cadre d'un projet de fin de semestre. [Github](https://github.com/julesroy/projet_val)
 * **[PitLane Insider](https://pitlaneinsider.fr/)** est une plateforme permettant d'accéder à une grande variété de données (données en direct et historiques) concernant le championnat du monde de Formule 1. Une première version a été réalisée en groupe et présentée dans le cadre du projet clôturant l'année de CIR2 à l'ISEN Lille. Suite à la présentation, nous avons décidé avec mon équipe de continuer le développement de cette plateforme en dehors du cadre scolaire.
 
