@@ -8,7 +8,7 @@
 
 ![C++](https://a11ybadges.com/badge?logo=cplusplus) ![C](https://a11ybadges.com/badge?logo=c) ![PHP](https://a11ybadges.com/badge?logo=php) ![JavaScript](https://a11ybadges.com/badge?logo=javascript) ![Python](https://a11ybadges.com/badge?logo=python) ![HTML5](https://a11ybadges.com/badge?logo=html5) ![CSS3](https://a11ybadges.com/badge?logo=css3)
 
-#### 🪛 Frameworks, Librairies, Plateformes et Outils
+#### 🪛 Frameworks, Libraries, Platforms and Tools
 
 ![Node.js](https://a11ybadges.com/badge?logo=nodedotjs) ![npm](https://a11ybadges.com/badge?logo=npm) ![Express](https://a11ybadges.com/badge?logo=express) ![Flask](https://a11ybadges.com/badge?logo=flask) ![Tailwind CSS](https://a11ybadges.com/badge?logo=tailwindcss) ![SFML](https://a11ybadges.com/badge?logo=sfml) ![SQLite](https://a11ybadges.com/badge?logo=sqlite) ![MySQL](https://a11ybadges.com/badge?logo=mysql) ![Jupyter](https://a11ybadges.com/badge?logo=jupyter) ![Git](https://a11ybadges.com/badge?logo=git) ![GitHub](https://a11ybadges.com/badge?logo=github) ![Google Cloud](https://a11ybadges.com/badge?logo=googlecloud) ![Linux](https://a11ybadges.com/badge?logo=linux) ![Visual Studio](https://a11ybadges.com/badge?logo=visualstudio) ![Visual Studio Code](https://a11ybadges.com/badge?logo=visualstudiocode) ![PowerShell](https://a11ybadges.com/badge?logo=powershell)
 
@@ -16,21 +16,26 @@
 
 ![macOS](https://a11ybadges.com/badge?logo=macos) ![Ubuntu](https://a11ybadges.com/badge?logo=ubuntu) ![Windows](https://a11ybadges.com/badge?logo=windows) ![iOS](https://a11ybadges.com/badge?logo=ios)
 
-## Principaux projets:
+## Main projects:
 
-* **[La Descente](https://ladescente.alwaysdata.net/)**, un site destiné à la présentation de recettes et de boissons alcoolisées. Réalisé en groupe dans le cadre d'un projet de fin de semestre. [Github](https://github.com/julesr0y/ladescente)
-* **[Dunetaler](https://dunetaler.alwaysdata.net/php/)**, un jeu vidéo inspiré du jeu Undertale (de Toby Fox). Réalisé en groupe dans le cadre du projet clôturant l'année de CIR1 à l'ISEN Lille. [Github](https://github.com/julesr0y/Dunetaler)
-* **ChtiMI**. Un site permettant la gestion des commandes et des stocks de l'association Maison ISEN à l'ISEN Lille. Réalisé en groupe. (Ce site était utilisé pour l'année 2023-2024, il n'est désormais plus accessible). [Github](https://github.com/julesr0y/maison_isen)
-* **[Mon site portfolio](https://julesr0y.xyz/)**. Mon portfolio de développeur. [Github](https://github.com/julesr0y/portfolio)
-* **Projet VAL**. Ce projet est une simulation du métro Lillois, avec C++ et la bibliothèque SFML. Réalisé en groupe dans le cadre d'un projet de fin de semestre. [Github](https://github.com/julesroy/projet_val)
-* **[PitLane Insider](https://pitlaneinsider.fr/)** est une plateforme permettant d'accéder à une grande variété de données (données en direct et historiques) concernant le championnat du monde de Formule 1. Une première version a été réalisée en groupe et présentée dans le cadre du projet clôturant l'année de CIR2 à l'ISEN Lille. Suite à la présentation, nous avons décidé avec mon équipe de continuer le développement de cette plateforme en dehors du cadre scolaire.
+- **[La Descente](https://ladescente.alwaysdata.net/)**, a site intended for the presentation of recipes and alcoholic beverages. Made in group as part of an end-of-semester project. [Github](https://github.com/julesr0y/ladescente)
+
+- **[Dunetaler](https://dunetaler.alwaysdata.net/php/)**, a video game inspired by the game Undertale (by Toby Fox). Made in group as part of the project closing the year of CIR1 at ISEN Lille. [Github](https://github.com/julesr0y/Dunetaler)
+
+- **ChtiMI**. A site allowing the management of orders and stocks of the association Maison ISEN at ISEN Lille. Made in group. (This site was used for the year 2023-2024, it is no longer accessible). [Github](https://github.com/julesr0y/maison_isen)
+
+- **[My portfolio site](https://julesr0y.xyz/)**. My developer portfolio. [Github](https://github.com/julesr0y/portfolio)
+
+- **VAL Project**. This project is a simulation of the Lille metro, with C++ and the SFML library. Carried out in group as part of an end-of-semester project. [Github](https://github.com/julesroy/projet_val)
+
+- **[PitLane Insider](https://pitlaneinsider.fr/)** is a platform that allows access to a wide variety of data (data live and historical) concerning the Formula 1 world championship. A first version was produced in group and presented as part of the project closing the CIR2 year at ISEN Lille. Following the presentation, we decided with my team to continue the development of this platform outside of the school framework.
 
 ---
 
-*Last review: 08/2024*
+_Last review: 01/2025_
 
 ```
-________ _______ __  __       _________        ______  
+________ _______ __  __       _________        ______
 ___  __ \__  __ \_ \/ /       ______  /____  _____  /_____ ________
 __  /_/ /_  / / /__  /        ___ _  / _  / / /__  / _  _ \__  ___/
 _  _, _/ / /_/ / _  /         / /_/ /  / /_/ / _  /  /  __/_(__  )
