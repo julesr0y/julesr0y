@@ -28,7 +28,7 @@
 
 - **VAL Project**. This project is a simulation of the Lille metro, with C++ and the SFML library. Carried out in group as part of an end-of-semester project. [Github](https://github.com/julesroy/projet_val)
 
-- **[PitLane Insider](https://pitlaneinsider.fr/)** is a platform that allows access to a wide variety of data (data live and historical) concerning the Formula 1 world championship. A first version was produced in group and presented as part of the project closing the CIR2 year at ISEN Lille. Following the presentation, we decided with my team to continue the development of this platform outside of the school framework.
+- **[PitLane Insider](https://pitlaneinsider.alwaysdata.net/)** is a platform that allows access to a wide variety of data (data live and historical) concerning the Formula 1 world championship. A first version was produced in group and presented as part of the project closing the CIR2 year at ISEN Lille. Following the presentation, we decided with my team to continue the development of this platform outside of the school framework.
 
 ---
 
