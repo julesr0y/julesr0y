@@ -10,13 +10,13 @@
 
 #### 🪛 Frameworks, Libraries, Platforms and Tools
 
-![Node.js](https://a11ybadges.com/badge?logo=nodedotjs) ![npm](https://a11ybadges.com/badge?logo=npm) ![Express](https://a11ybadges.com/badge?logo=express) ![Flask](https://a11ybadges.com/badge?logo=flask) ![Tailwind CSS](https://a11ybadges.com/badge?logo=tailwindcss) ![SFML](https://a11ybadges.com/badge?logo=sfml) ![SQLite](https://a11ybadges.com/badge?logo=sqlite) ![MySQL](https://a11ybadges.com/badge?logo=mysql) ![Jupyter](https://a11ybadges.com/badge?logo=jupyter) ![Git](https://a11ybadges.com/badge?logo=git) ![GitHub](https://a11ybadges.com/badge?logo=github) ![Google Cloud](https://a11ybadges.com/badge?logo=googlecloud) ![Linux](https://a11ybadges.com/badge?logo=linux) ![Visual Studio](https://a11ybadges.com/badge?logo=visualstudio) ![Visual Studio Code](https://a11ybadges.com/badge?logo=visualstudiocode) ![PowerShell](https://a11ybadges.com/badge?logo=powershell)
+![Node.js](https://a11ybadges.com/badge?logo=nodedotjs) ![npm](https://a11ybadges.com/badge?logo=npm) ![Express](https://a11ybadges.com/badge?logo=express) ![Flask](https://a11ybadges.com/badge?logo=flask) ![Laravel](https://a11ybadges.com/badge?logo=laravel) ![Tailwind CSS](https://a11ybadges.com/badge?logo=tailwindcss) ![SFML](https://a11ybadges.com/badge?logo=sfml) ![SQLite](https://a11ybadges.com/badge?logo=sqlite) ![MySQL](https://a11ybadges.com/badge?logo=mysql) ![Jupyter](https://a11ybadges.com/badge?logo=jupyter) ![Git](https://a11ybadges.com/badge?logo=git) ![GitHub](https://a11ybadges.com/badge?logo=github) ![Google Cloud](https://a11ybadges.com/badge?logo=googlecloud) ![Linux](https://a11ybadges.com/badge?logo=linux) ![Visual Studio](https://a11ybadges.com/badge?logo=visualstudio) ![Visual Studio Code](https://a11ybadges.com/badge?logo=visualstudiocode) ![PowerShell](https://a11ybadges.com/badge?logo=powershell)
 
 #### 🖥️ OS
 
 ![macOS](https://a11ybadges.com/badge?logo=macos) ![Ubuntu](https://a11ybadges.com/badge?logo=ubuntu) ![Windows](https://a11ybadges.com/badge?logo=windows) ![iOS](https://a11ybadges.com/badge?logo=ios)
 
-## Main projects:
+## 💼 Projects
 
 - **[La Descente](https://ladescente.alwaysdata.net/)**, a site intended for the presentation of recipes and alcoholic beverages. Made in group as part of an end-of-semester project. [Github](https://github.com/julesr0y/ladescente)
 
@@ -26,13 +26,13 @@
 
 - **[My portfolio site](https://julesr0y.xyz/)**. My developer portfolio. [Github](https://github.com/julesr0y/portfolio)
 
-- **VAL Project**. This project is a simulation of the Lille metro, with C++ and the SFML library. Carried out in group as part of an end-of-semester project. [Github](https://github.com/julesroy/projet_val)
+- **VAL Project**. This project is a simulation of the Lille metro, with C++ and the SFML library. Carried out in group as part of an end-of-semester project. [Github](https://github.com/julesr0y/projet_val)
 
 - **[PitLane Insider](https://pitlaneinsider.alwaysdata.net/)** is a platform that allows access to a wide variety of data (data live and historical) concerning the Formula 1 world championship. A first version was produced in group and presented as part of the project closing the CIR2 year at ISEN Lille. Following the presentation, we decided with my team to continue the development of this platform outside of the school framework.
 
 ---
 
-_Last review: 05/2025_
+_Last review: 06/2025_
 
 ```
 ________ _______ __  __       _________        ______
